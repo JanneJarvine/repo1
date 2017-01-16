@@ -10,7 +10,7 @@ namespace repo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ASDAAAAA");
+            Console.WriteLine("ASDAAAAA LISAAA");
         }
     }
 }
